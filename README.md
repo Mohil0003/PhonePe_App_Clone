@@ -1,6 +1,6 @@
 # PhonePe UI Clone
 
-Made for Clone UI Challenege of Google Udacity Android Developer Scholarship Challenge 2018. 
+This APP Clone Made by Mohil Parmar .
 
 **_This PhonePe UI Clone is made for challenge purpose and not intented for any business purpose._**
 
